@@ -66,6 +66,9 @@ brozen_data_folder: str = create_file(data_folder, "1_brozen")
 silver_data_folder: str = create_file(data_folder, "2_silver")
 golden_data_folder: str = create_file(data_folder, "3_golden")
 
+# =========== Report ==========
+report_folder: str = f"./reports/{today}"
+Path(report_folder).mkdir(exist_ok=True, parents=True)
 
 
 
