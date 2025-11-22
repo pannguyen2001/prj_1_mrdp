@@ -1,0 +1,1 @@
+Ban cuoi, after test and fix in https://studio.firebase.google.com/data-da-ds-de-97200701
